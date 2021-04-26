@@ -4,7 +4,9 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Header Files"
                    projectFiles="true">
+      <itemPath>a.h</itemPath>
       <itemPath>estructuraPlanta.h</itemPath>
+      <itemPath>modoGrafico.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
                    displayName="Resource Files"
@@ -37,9 +39,13 @@
       </toolsSet>
       <compileType>
       </compileType>
+      <item path="a.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="estructuraPlanta.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="modoGrafico.h" ex="false" tool="3" flavor2="0">
       </item>
     </conf>
     <conf name="Release" type="1">
@@ -62,9 +68,13 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+      <item path="a.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="estructuraPlanta.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="modoGrafico.h" ex="false" tool="3" flavor2="0">
       </item>
     </conf>
   </confs>

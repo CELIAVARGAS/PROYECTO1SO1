@@ -1,0 +1,758 @@
+
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7026
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  7027
+          PID HOJA:  7028
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7026
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  7027
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7026
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  7032
+          PID HOJA:  7033
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7026
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  7032
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7026
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  7036
+          PID HOJA:  7037
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7026
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  7036
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7026
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7086
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  7089
+          PID HOJA:  7091
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7088
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7098
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  7089
+          PID HOJA:  7091
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7086
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  7089
+          PID HOJA:  7091
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7086
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  7089
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7169
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  7089
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7086
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  7089
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7086
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  7206
+          PID HOJA:  7207
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7211
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  7206
+          PID HOJA:  7207
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7086
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  7206
+          PID HOJA:  7207
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7086
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  7206
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7249
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  7206
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7086
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  7206
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7086
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  7285
+          PID HOJA:  7286
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7290
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  7285
+          PID HOJA:  7286
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7086
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  7285
+          PID HOJA:  7286
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7086
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  7285
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7327
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  7285
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7086
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  7285
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7086
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7364
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7086
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  7401
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+
+
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  9451
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  9452
+          PID HOJA:  9455
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  9454
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  9463
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  9452
+          PID HOJA:  9455
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  9451
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  9452
+          PID HOJA:  9455
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  9451
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  9452
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  5490
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  5491
+          PID HOJA:  5493
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  5494
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  5502
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  5491
+          PID HOJA:  5493
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  5490
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  5491
+          PID HOJA:  5493
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  5490
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  5491
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  5571
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  5491
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  5490
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  5491
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  5490
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  5609
+          PID HOJA:  5610
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  5614
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  5609
+          PID HOJA:  5610
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  5490
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  5609
+          PID HOJA:  5610
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  5490
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  5609
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  5651
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  5609
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  5490
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  5609
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  5490
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  5689
+          PID HOJA:  5690
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  5694
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  5689
+          PID HOJA:  5690
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  5490
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  5689
+          PID HOJA:  5690
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  5490
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  5689
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  5732
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  5689
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  5490
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  5689
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  5490
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  5769
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  5490
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  5806
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9
+   PID PLANTA:  5861
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  5864
+          PID HOJA:  5866
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9 RAMAS:  5 HOJAS:  2
+   PID PLANTA:  6753
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  6755
+          PID HOJA:  6757
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9 RAMAS:  5 HOJAS:  2
+   PID PLANTA:  6756
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9 RAMAS:  5 HOJAS:  2
+   PID PLANTA:  6765
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  6755
+          PID HOJA:  6757
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9 RAMAS:  5 HOJAS:  2
+   PID PLANTA:  6753
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  6755
+          PID HOJA:  6757
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9 RAMAS:  5 HOJAS:  2
+   PID PLANTA:  6753
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  6755
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9 RAMAS:  5 HOJAS:  2
+   PID PLANTA:  6835
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  6755
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9 RAMAS:  5 HOJAS:  2
+   PID PLANTA:  6753
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  6755
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9 RAMAS:  5 HOJAS:  2
+   PID PLANTA:  6753
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  6871
+          PID HOJA:  6872
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9 RAMAS:  5 HOJAS:  2
+   PID PLANTA:  6876
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  6871
+          PID HOJA:  6872
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9 RAMAS:  5 HOJAS:  2
+   PID PLANTA:  6753
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  6871
+          PID HOJA:  6872
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9 RAMAS:  5 HOJAS:  2
+   PID PLANTA:  6753
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  6871
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9 RAMAS:  5 HOJAS:  2
+   PID PLANTA:  6915
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  6871
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9 RAMAS:  5 HOJAS:  2
+   PID PLANTA:  6753
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  6871
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9 RAMAS:  5 HOJAS:  2
+   PID PLANTA:  6753
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  6951
+          PID HOJA:  6952
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9 RAMAS:  5 HOJAS:  2
+   PID PLANTA:  6956
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  6951
+          PID HOJA:  6952
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9 RAMAS:  5 HOJAS:  2
+   PID PLANTA:  6753
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  6951
+          PID HOJA:  6952
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9 RAMAS:  5 HOJAS:  2
+   PID PLANTA:  6753
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  6951
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9 RAMAS:  5 HOJAS:  2
+   PID PLANTA:  6993
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  6951
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9 RAMAS:  5 HOJAS:  2
+   PID PLANTA:  6753
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+      PID RAMA:  6951
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9 RAMAS:  5 HOJAS:  2
+   PID PLANTA:  6753
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9 RAMAS:  5 HOJAS:  2
+   PID PLANTA:  7031
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9 RAMAS:  5 HOJAS:  2
+   PID PLANTA:  6753
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536
+
+#########################################
+
+ID DE LA PLANTA A MOSTRAR:  9 RAMAS:  5 HOJAS:  2
+   PID PLANTA:  7068
+      PID RAMA:  44
+          PID HOJA:  655368
+          PID HOJA:  10536

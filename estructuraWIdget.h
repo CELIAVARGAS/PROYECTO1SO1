@@ -22,11 +22,12 @@
 #include <unistd.h>
 #include<stdbool.h>// Booleanos
 #include <gtk/gtk.h>
-#include <gtk-2.0/gtk/gtkentry.h>
 void analisisLinea(char cadena[]);
 
 struct login_window {
     GtkEntry *e1; //textbox1
+    GtkWidget *salida;       
+    GtkTextBuffer *bufferT;     
 };
 typedef struct login_window widgets;
 
@@ -34,22 +35,18 @@ void on_proyecto1so1_destroy() {
     gtk_main_quit();
 }
 
-typedef struct {
-    GtkEntry *entrada;      
-    GtkWidget *salida;       
-    GtkTextBuffer *bufferT;     
-} app_widgets;
+
 
  void on_boton_clicked(GtkButton *button, widgets *widg) {
      char ch1[21];
     //getting text from the text boxes
     const gchar *text1 = gtk_entry_get_text(widg->e1);
 
-    //copying the text of textbox into an array
     strcpy(ch1, text1);
     printf("\n Pintando planta");
     printf("\n%s",ch1);
     analisisLinea(ch1);
+    gtk_text_buffer_set_text(widg->bufferT,ch1, -1);
                     
 }
 
